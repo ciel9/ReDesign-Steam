@@ -1,2 +1,2 @@
 # ReDesign-Steam
-Melakukan Design Ulang untuk tampilan aplikasi Steam menggunakan Adobe XD.
+is a redesigned interface of the Steam application using Adobe XD.
